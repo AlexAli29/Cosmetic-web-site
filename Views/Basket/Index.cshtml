@@ -1,0 +1,137 @@
+﻿@model IEnumerable<BasketItemViewModel>
+@{
+    ViewData["Title"] = "Basket";
+}
+
+
+<style>
+    .clear-btn{
+        margin:18px 0;
+
+    }
+</style>
+<div class="container">
+  <div class="row">
+    <div class="col">
+    
+    </div>
+    <div class="col text-center">
+      <h1 class="display-4">Basket</h1>
+    </div>
+    <div class="col">
+        <form asp-controller="Basket" asp-action="Clear" method="post">
+            <button type="submit" class="btn btn-light float-end clear-btn">
+                <i class="bi bi-cart-plus"></i>Clear basket
+            </button>
+        </form>
+    </div>
+  </div>
+</div>
+
+
+
+    <table class="table table-bordered table-striped" style="width:100%">
+        <thead>
+            <tr>
+                <th></th>
+                <th>
+
+                Product name
+
+                </th>
+                <th>
+
+                  price
+
+                </th>
+
+                 <th>
+
+                count
+
+                </th>
+                <th></th>
+
+            </tr>
+
+
+        </thead>
+
+        <tbody>
+            @foreach(var obj in Model)
+            {
+          <tr>
+                <td>
+                    
+                    <img class="imgs" height="70" width="100" src="@obj.ImagePath"/>
+                    
+                </td>
+
+                <td width="50%">
+                    @obj.Name
+
+
+                </td>
+
+
+                <td width="30%">
+                    @obj.Price
+                    $
+
+
+                </td>
+
+                  <td width="20%">
+                    @obj.Count
+
+
+                </td>
+
+                <td>
+
+                    <div class="w-75 btn-group" role="group">
+                      
+
+                          @*<a asp-controller="Basket" asp-action="delete" asp-route-id="@obj.ProductId" 
+                          class="btn btn-danger mx-2"><i class="bi bi-trash"></i>delete</a>
+*@
+                        <form asp-controller="Basket" asp-action="Delete" asp-route-id="@obj.ProductId" method="post">
+                            @if (!obj.Sold)
+                            {
+                                <button type="submit" class="btn btn-danger mx-2">
+                                    <i class="bi bi-trash"></i>delete
+                                </button> 
+                            }
+                         
+
+                        </form>
+
+                          <form asp-controller="Basket" asp-action="Purchase" asp-route-id="@obj.ProductId" method="post">
+                            @if (obj.Sold)
+                            {
+                                <button type="submit" class="btn btn-success mx-2" disabled>
+                                    <i class="bi bi-check-lg"></i>purchase
+                                </button>
+                            }
+                            else
+                            {
+                                  <button type="submit" class="btn btn-warning mx-2">
+                                    <i class="bi bi-bag"></i>purchase
+                                </button>
+                            }
+
+                        </form>
+
+                         @* <a asp-controller="category" asp-action="addtobasket" asp-route-id="@obj.ProductId" 
+                          class="btn btn-warning mx-2"><i class="bi bi-bag"></i>purchase</a>*@
+
+                    </div>
+                </td>
+
+            </tr>
+            
+            }
+        </tbody>
+
+    </table> 
+     </div>

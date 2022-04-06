@@ -1,0 +1,317 @@
+﻿++Solution 'cosmetic web' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:cosmetic web.sln
+++cosmetic web
+i:{00000000-0000-0000-0000-000000000000}:cosmetic web
+++Connected Services 
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:>1549
+++SQL Server Database (ConnectionStrings:DefaultConnection)
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:>1581
+++SQL Server Database dependency with connectionId 'ConnectionStrings:DefaultConnection' is detected
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:>1582
+++Dependencies
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:>1548
+++Analyzers
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:analyzers
+++Frameworks
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:frameworks
+++Packages
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:packages
+++Properties
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\properties\
+++launchSettings.json
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\properties\launchsettings.json
+++wwwroot
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\
+++css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\css\
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\
+++bootswatch.css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\css\bootswatch.css
+++site.css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\css\site.css
+++images
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\
+++js
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\js\
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\
+++bootstrap
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\
+++jquery
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\jquery\
+++jquery-validation
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\jquery-validation-unobtrusive\
+++favicon.ico
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\favicon.ico
+++Controllers
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\controllers\
+++BasketController.cs
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\controllers\basketcontroller.cs
+++CategoryController.cs
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\controllers\categorycontroller.cs
+++Data
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\data\
+++ApplicationDbContext.cs
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\data\applicationdbcontext.cs
+++Migrations
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\migrations\
+++Models
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\models\
+++BasketItem.cs
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\models\basketitem.cs
+++BasketItemViewModel.cs
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\models\basketitemviewmodel.cs
+++Category.cs
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\models\category.cs
+++CategoryViewModel.cs
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\models\categoryviewmodel.cs
+++ErrorViewModel.cs
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\models\errorviewmodel.cs
+++Views
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\views\
+++Basket
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\views\basket\
+++Delete.cshtml
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\views\basket\delete.cshtml
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\views\category\delete.cshtml
+++Index.cshtml
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\views\basket\index.cshtml
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\views\category\index.cshtml
+++Privacy.cshtml
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\views\basket\privacy.cshtml
+++Category
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\views\category\
+++Create.cshtml
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\views\category\create.cshtml
+++Edit.cshtml
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\views\category\edit.cshtml
+++Shared
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\views\shared\
+++_Layout.cshtml
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\views\_viewstart.cshtml
+++appsettings.json
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\appsettings.json
+++Program.cs
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\program.cs
+++MessagePackAnalyzer
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:c:\users\uporo\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:c:\users\uporo\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:c:\users\uporo\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:c:\users\uporo\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\microsoft.netcore.app
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (6.0.0)
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:>1561
+++Microsoft.EntityFrameworkCore (6.0.0)
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:>1562
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.0)
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:>1563
+++Microsoft.EntityFrameworkCore.Tools (6.0.0)
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:>1564
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.0)
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:>1565
+++01a6d546-da10-40d6-8e5d-33391244bd20.jpg
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\01a6d546-da10-40d6-8e5d-33391244bd20.jpg
+++0e3df64e-4e69-4043-addf-65c72f54833c.jpg
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\0e3df64e-4e69-4043-addf-65c72f54833c.jpg
+++1ee84ff4-42ac-4bc2-ab38-d1e85e4bf168.jpg
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\1ee84ff4-42ac-4bc2-ab38-d1e85e4bf168.jpg
+++297b84ef-6420-4785-acbe-634759fb6e71.jpg
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\297b84ef-6420-4785-acbe-634759fb6e71.jpg
+++29a4d3b1-a1f4-41eb-8ee3-e7515bd74555.jpg
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\29a4d3b1-a1f4-41eb-8ee3-e7515bd74555.jpg
+++475765d5-0a40-41ac-be0c-44b2fe24255c.jpg
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\475765d5-0a40-41ac-be0c-44b2fe24255c.jpg
+++533eb1c5-2597-4493-b4ae-180ffa644fcc.jpg
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\533eb1c5-2597-4493-b4ae-180ffa644fcc.jpg
+++569d1b60-0e46-4558-9811-cf807231aaa0.jpg
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\569d1b60-0e46-4558-9811-cf807231aaa0.jpg
+++6aefaf7f-c551-49d2-bbdf-eb948ac5c0a6.jpg
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\6aefaf7f-c551-49d2-bbdf-eb948ac5c0a6.jpg
+++92ff0c21-db6f-4a3c-9b77-1ca5d2a39107.jpg
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\92ff0c21-db6f-4a3c-9b77-1ca5d2a39107.jpg
+++a4023698-b0e4-42d0-ac63-e7452d71dea4.jpg
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\a4023698-b0e4-42d0-ac63-e7452d71dea4.jpg
+++ac4eac2e-e066-45ed-a86c-0c5dad6d9bca.jpg
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\ac4eac2e-e066-45ed-a86c-0c5dad6d9bca.jpg
+++afb2276d-f427-44d2-8806-e5b50d38dcb5.jpg
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\afb2276d-f427-44d2-8806-e5b50d38dcb5.jpg
+++b71bee7b-d4cd-4a7b-ad27-f0555fb37abe.jpg
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\b71bee7b-d4cd-4a7b-ad27-f0555fb37abe.jpg
+++ba1ff744-c357-418f-be16-438fc2d76534.jpg
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\ba1ff744-c357-418f-be16-438fc2d76534.jpg
+++d0b7ea9c-ce97-4f74-8009-74ba15cd9072.jpg
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\d0b7ea9c-ce97-4f74-8009-74ba15cd9072.jpg
+++d0d4d0e9-4b71-4946-beb8-10927b03ccf7.jpg
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\d0d4d0e9-4b71-4946-beb8-10927b03ccf7.jpg
+++eab23e53-ef92-4488-baa8-5a29209e5c60.jpg
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\eab23e53-ef92-4488-baa8-5a29209e5c60.jpg
+++ff4966ba-ad3e-4686-aa3a-11e7de139457.jpg
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\images\ff4966ba-ad3e-4686-aa3a-11e7de139457.jpg
+++site.js
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\js\site.js
+++dist
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\jquery\dist\
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\jquery\license.txt
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++20211211212416_AddCategoryToDatabase.cs
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\migrations\20211211212416_addcategorytodatabase.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\migrations\applicationdbcontextmodelsnapshot.cs
+++_Layout.cshtml.css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\appsettings.development.json
+++jquery.js
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++20211211212416_AddCategoryToDatabase.Designer.cs
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\migrations\20211211212416_addcategorytodatabase.designer.cs
+++bootstrap.css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{193bacd8-bf55-4dac-86f5-5b8d2bb94a2e}:d:\c##\cosmetic web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
